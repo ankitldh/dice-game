@@ -1,0 +1,38 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+ul{
+    display: inline-block;
+}
+.img{
+    display: inline-block;
+}
+li{
+    margin-bottom: 30px;
+    text-align: center;
+    list-style-type: none;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+    
+    
+}
+img{
+    height:30%;
+    width: 60%;
+   
+    
+}
+h1{
+    
+    font-size: 70px;
+    font-family: 'Playfair Display', serif;
+    /* box-shadow: -2px 30px 26px -11px rgba(0,0,0,0.75); */
+    /* text-shadow: -2px 30px 26px -11px rgba(0,0,0,0.75) ; */
+   
+    color: rgb(175, 27, 16);
+}
+footer{
+    text-align: center;
+}
